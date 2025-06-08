@@ -11,14 +11,15 @@ tags:
 
 Here are a few automotive blogs that i follow 
 
-[Autocar India](https://www.youtube.com/@autocarindia1)
-[Devo India](https://www.youtube.com/@devoIndia)
-[Team-BHP](https://www.team-bhp.com/)
-[Drivetribe](https://www.youtube.com/@Drivetribe)
-[Jay Leno's Garage](https://www.youtube.com/@jaylenosgarage)
-[Donut](https://www.youtube.com/@Donut)
-[Benjamin Hunting - Exhaust Fumes](https://benjaminhunting.com/category/exhaust-fumes/)
-[Jalopnik](https://jalopnik.com/)
+
+- [Autocar India](https://www.youtube.com/@autocarindia1)
+- [Devo India](https://www.youtube.com/@devoIndia)
+- [Team-BHP](https://www.team-bhp.com/)
+- [Drivetribe](https://www.youtube.com/@Drivetribe)
+- [Jay Leno's Garage](https://www.youtube.com/@jaylenosgarage)
+- [Donut](https://www.youtube.com/@Donut)
+- [Benjamin Hunting - Exhaust Fumes](https://benjaminhunting.com/category/exhaust-fumes/)
+- [Jalopnik](https://jalopnik.com/)
 
 
 <!--more-->
