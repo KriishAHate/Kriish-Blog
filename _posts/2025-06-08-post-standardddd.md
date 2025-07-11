@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-Here are a few automotive blogs that i follow 
+Here are a few automotive channels/blogs that i follow:
 
 
 - [Autocar India](https://www.youtube.com/@autocarindia1)
