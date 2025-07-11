@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Post: Automotive Blogs I Follow"
 excerpt_separator: "<!--more-->"
 categories:
