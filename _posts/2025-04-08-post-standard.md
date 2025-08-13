@@ -14,7 +14,7 @@ Here are a few automotive channels/blogs that i follow:
 
 
 - [Autocar India](https://www.youtube.com/@autocarindia1)
-- [Evo India](https://www.youtube.com/@devoIndia)
+- [Evo India](https://www.youtube.com/@evoIndia)
 - [Team-BHP](https://www.team-bhp.com/)
 - [Drivetribe](https://www.youtube.com/@Drivetribe)
 - [Jay Leno's Garage](https://www.youtube.com/@jaylenosgarage)
