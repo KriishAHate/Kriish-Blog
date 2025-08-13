@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kriish Hate"
   avatar : "/assets/images/profile.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Fueled by curiosity, driven by machines — engineer, maker, builder, and historian."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
