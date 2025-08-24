@@ -1,0 +1,20 @@
+current directory: /Users/kriishhate/GitHub/Kriish-Blog/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/kriishhate/.rbenv/versions/3.2.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kriishhate/GitHub/Kriish-Blog/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250824-3200-emn84l sitelibdir\=./.gem.20250824-3200-emn84l clean
+
+current directory: /Users/kriishhate/GitHub/Kriish-Blog/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250824-3200-emn84l sitelibdir\=./.gem.20250824-3200-emn84l
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/kriishhate/GitHub/Kriish-Blog/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250824-3200-emn84l sitelibdir\=./.gem.20250824-3200-emn84l install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20250824-3200-emn84l
+
+current directory: /Users/kriishhate/GitHub/Kriish-Blog/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250824-3200-emn84l sitelibdir\=./.gem.20250824-3200-emn84l clean

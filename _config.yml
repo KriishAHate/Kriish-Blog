@@ -22,7 +22,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: KriishAhate 
 minimal_mistakes_skin: default
+  - /assets/css/custom.css
 search: true
+
+collections:
+  carshows:
+    output: true
+    permalink: /carshows/:title/
+   
 
 # Build settings
 markdown: kramdown
@@ -35,6 +42,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _carshows
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -64,7 +72,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://kriishahate.github.io/Portfolio-Site/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -106,6 +114,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _autoshows
+  - scope:
+      path: ""
+      type: carshows
+    values:
+      layout: single
+      classes: wide
+      entries_layout: grid
 
 category_archive:
   type: liquid
