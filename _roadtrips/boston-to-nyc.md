@@ -9,7 +9,7 @@ author_profile: true
 
 Some ideas are good.  
 Some ideas are great.  
-And then there are ideas like this one — born at midnight, fueled by way too much confidence, and destined to become a full day of caffeine, horsepower, and questionable decision-making.
+And then there are ideas like this one — born at midnight, fueled by way too much confidence, and destined to become a full day of caffeine, milemunching, horsepower, and questionable decision-making.
 
 It started with my friend Ruifeng and me staring at a map and deciding that a thousand kilometers in one day sounded… reasonable. The plan: Boston → Old Saybrook, Connecticut → New York → Saravana Bhavan for a dosa → the Poconos → a wartime antique shop → dinner somewhere in Connecticut → Boston by nightfall. Easy, right?
 
