@@ -1,7 +1,6 @@
 ---
 title: "1,000 km in a Day: Boston → Old Saybrook → NY → Poconos → Back"
 layout: collection
-permalink: /roadtrips/
 collection: roadtrips
 author_profile: true
 ---
