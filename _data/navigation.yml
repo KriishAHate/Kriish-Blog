@@ -9,3 +9,5 @@ main:
     url: /tags/
   - title: "Car Shows"
     url: /carshows/
+  - title: "Roadtrips"
+    url: /roadtrips/

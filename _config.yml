@@ -29,6 +29,9 @@ collections:
   carshows:
     output: true
     permalink: /carshows/:title/
+  roadtrips:
+    output: true
+    permalink: /roadtrips/:title/
    
 
 # Build settings
@@ -43,6 +46,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - _carshows
+  - _roadtrips
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -114,11 +118,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-  # _autoshows
+  # _carshows
   - scope:
       path: ""
       type: carshows
+    values:
+      layout: single
+      classes: wide
+      entries_layout: grid
+  # _roadtrips
+  - scope:
+      path: ""
+      type: roadtrips
     values:
       layout: single
       classes: wide
