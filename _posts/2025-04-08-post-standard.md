@@ -2,7 +2,7 @@
 title: "Automotive channels/blogs"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Automotive Blog
 tags:
   - Post Formats
   - readability
