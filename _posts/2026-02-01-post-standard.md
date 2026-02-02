@@ -10,7 +10,7 @@ tags:
   - BBC
 ---
 
-![Mark Tully](/assets/images/marktully.jpg)
+![Mark Tully]({{ "/assets/images/marktully.jpg" | relative_url }})
 
 It is with deep sadness that I learned of the passing of Sir Mark Tully on January 25, 2026. For those unfamiliar with this giant of journalism, Mark Tully was the BBC's New Delhi bureau chief for 22 years , and his voice became synonymous with India itself for generations of listeners worldwide.
 
