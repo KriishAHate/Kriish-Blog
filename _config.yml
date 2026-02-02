@@ -10,7 +10,7 @@ twitter_username: username
 github_username: KriishAhate
 
 # Theme (Option A: gem-based Minimal Mistakes)
-theme: minimal-mistakes-jekyll
+theme: KriishAHate/minimal-mistakes
 minimal_mistakes_skin: "default"
 
 search: true
