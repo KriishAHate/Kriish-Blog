@@ -40,4 +40,4 @@ Rest in peace, Mark Tully.
 
 ---
 
-*If you have memories of Mark Tully's work or know where to find his documentaries online, please share in them with me.*
+*If you have memories of Mark Tully's work or know where to find his documentaries online, please share them with me.*
